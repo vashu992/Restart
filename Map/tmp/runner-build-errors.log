@@ -1,0 +1,2 @@
+# github.com/vashu992/Restart/Map
+.\main.go:52:12: cannot use r[12] (map index expression of type string) as int value in assignment
